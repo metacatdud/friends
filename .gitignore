@@ -1,0 +1,13 @@
+# Folders
+.idea
+bin/*
+tmp/*
+!tmp/.gitkeep
+vendor/
+
+# Files
+__debug_bin
+coverage.out
+.DS_Store
+config.json
+local.env
